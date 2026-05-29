@@ -1,4 +1,4 @@
-const DATA_FILE = "GP_2.json";
+const DATA_FILE = "gp_questions.json";
 
 let settings = {
   show_progress: true,
